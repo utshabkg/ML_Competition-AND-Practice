@@ -8,7 +8,7 @@ It contains the example code and solutions to the exercises in the second editio
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51aqYc1QyrL._SX379_BO1,204,203,200_.jpg" title="book" width="150" />
 
-**Note**: If you are looking for the first edition notebooks, check out [ageron/handson-ml](https://github.com/ageron/handson-ml).
+**Note**: If you are looking for the first edition of the book, check out [HERE](https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/).
 
 Reference:
 https://github.com/ageron/handson-ml2
