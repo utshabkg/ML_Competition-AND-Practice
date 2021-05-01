@@ -1,0 +1,6 @@
+built in:
+RF: 94.90943533802215 [95.89301 (Online score)]
+imp features & RF: ~94.23
+
+raw analysis:
+RF: 95.37779772793304 [96.31288 (Online score)]
