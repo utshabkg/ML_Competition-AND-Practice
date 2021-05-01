@@ -6,10 +6,12 @@
 
 ### Competitions:
 The Machine Learning competitions I took part in solo or with teams.
+
 <table border='1'>
 <tr>
   <th></th>
-  <th>Challenge Name</th>                                                                                                                                             |               <th>Repository</th>
+  <th>Challenge Name</th>
+  <th>Repository</th>
   <th>Domain</th>
   <th>Position</th>
   <th>Leaderboard</th>
