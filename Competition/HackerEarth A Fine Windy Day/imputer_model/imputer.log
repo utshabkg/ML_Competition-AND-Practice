@@ -1,0 +1,88 @@
+2021-05-01 20:28:12,191 [INFO]  
+========== start: fit model
+2021-05-01 20:28:12,192 [WARNING]  Already bound, ignoring bind()
+2021-05-01 20:28:15,449 [INFO]  Epoch[0] Batch [0-635]	Speed: 3130.01 samples/sec	cross-entropy=0.306490	wind_speed(m/s)-accuracy=0.155660
+2021-05-01 20:28:18,894 [INFO]  Epoch[0] Train-cross-entropy=0.187095
+2021-05-01 20:28:18,894 [INFO]  Epoch[0] Train-wind_speed(m/s)-accuracy=0.150512
+2021-05-01 20:28:18,895 [INFO]  Epoch[0] Time cost=6.701
+2021-05-01 20:28:18,899 [INFO]  Saved checkpoint to "imputer_model\model-0000.params"
+2021-05-01 20:28:19,403 [INFO]  Epoch[0] Validation-cross-entropy=0.048056
+2021-05-01 20:28:19,404 [INFO]  Epoch[0] Validation-wind_speed(m/s)-accuracy=0.000000
+2021-05-01 20:28:22,910 [INFO]  Epoch[1] Batch [0-635]	Speed: 2903.69 samples/sec	cross-entropy=0.031690	wind_speed(m/s)-accuracy=0.155660
+2021-05-01 20:28:26,315 [INFO]  Epoch[1] Train-cross-entropy=0.044279
+2021-05-01 20:28:26,316 [INFO]  Epoch[1] Train-wind_speed(m/s)-accuracy=0.150512
+2021-05-01 20:28:26,317 [INFO]  Epoch[1] Time cost=6.912
+2021-05-01 20:28:26,320 [INFO]  Saved checkpoint to "imputer_model\model-0001.params"
+2021-05-01 20:28:26,806 [INFO]  Epoch[1] Validation-cross-entropy=0.041878
+2021-05-01 20:28:26,807 [INFO]  Epoch[1] Validation-wind_speed(m/s)-accuracy=0.000000
+2021-05-01 20:28:30,216 [INFO]  Epoch[2] Batch [0-635]	Speed: 2986.48 samples/sec	cross-entropy=0.041569	wind_speed(m/s)-accuracy=0.155660
+2021-05-01 20:28:33,696 [INFO]  Epoch[2] Train-cross-entropy=0.056504
+2021-05-01 20:28:33,697 [INFO]  Epoch[2] Train-wind_speed(m/s)-accuracy=0.150512
+2021-05-01 20:28:33,698 [INFO]  Epoch[2] Time cost=6.890
+2021-05-01 20:28:33,702 [INFO]  Saved checkpoint to "imputer_model\model-0002.params"
+2021-05-01 20:28:34,241 [INFO]  Epoch[2] Validation-cross-entropy=0.040715
+2021-05-01 20:28:34,242 [INFO]  Epoch[2] Validation-wind_speed(m/s)-accuracy=0.000000
+2021-05-01 20:28:37,746 [INFO]  Epoch[3] Batch [0-635]	Speed: 2905.35 samples/sec	cross-entropy=0.047691	wind_speed(m/s)-accuracy=0.155660
+2021-05-01 20:28:41,240 [INFO]  Epoch[3] Train-cross-entropy=0.051290
+2021-05-01 20:28:41,241 [INFO]  Epoch[3] Train-wind_speed(m/s)-accuracy=0.150512
+2021-05-01 20:28:41,242 [INFO]  Epoch[3] Time cost=6.999
+2021-05-01 20:28:41,246 [INFO]  Saved checkpoint to "imputer_model\model-0003.params"
+2021-05-01 20:28:42,143 [INFO]  Epoch[3] Validation-cross-entropy=0.028003
+2021-05-01 20:28:42,144 [INFO]  Epoch[3] Validation-wind_speed(m/s)-accuracy=0.000000
+2021-05-01 20:28:45,668 [INFO]  Epoch[4] Batch [0-635]	Speed: 2889.65 samples/sec	cross-entropy=0.035762	wind_speed(m/s)-accuracy=0.155660
+2021-05-01 20:28:49,164 [INFO]  Epoch[4] Train-cross-entropy=0.035901
+2021-05-01 20:28:49,164 [INFO]  Epoch[4] Train-wind_speed(m/s)-accuracy=0.150512
+2021-05-01 20:28:49,165 [INFO]  Epoch[4] Time cost=7.020
+2021-05-01 20:28:49,170 [INFO]  Saved checkpoint to "imputer_model\model-0004.params"
+2021-05-01 20:28:49,691 [INFO]  Epoch[4] Validation-cross-entropy=0.031181
+2021-05-01 20:28:49,691 [INFO]  Epoch[4] Validation-wind_speed(m/s)-accuracy=0.000000
+2021-05-01 20:28:53,238 [INFO]  Epoch[5] Batch [0-635]	Speed: 2871.68 samples/sec	cross-entropy=0.034748	wind_speed(m/s)-accuracy=0.155660
+2021-05-01 20:28:56,898 [INFO]  Epoch[5] Train-cross-entropy=0.041584
+2021-05-01 20:28:56,899 [INFO]  Epoch[5] Train-wind_speed(m/s)-accuracy=0.150512
+2021-05-01 20:28:56,900 [INFO]  Epoch[5] Time cost=7.208
+2021-05-01 20:28:56,905 [INFO]  Saved checkpoint to "imputer_model\model-0005.params"
+2021-05-01 20:28:57,503 [INFO]  Epoch[5] Validation-cross-entropy=0.026007
+2021-05-01 20:28:57,504 [INFO]  Epoch[5] Validation-wind_speed(m/s)-accuracy=0.000000
+2021-05-01 20:29:01,534 [INFO]  Epoch[6] Batch [0-635]	Speed: 2527.36 samples/sec	cross-entropy=0.045029	wind_speed(m/s)-accuracy=0.155660
+2021-05-01 20:29:05,061 [INFO]  Epoch[6] Train-cross-entropy=0.046802
+2021-05-01 20:29:05,063 [INFO]  Epoch[6] Train-wind_speed(m/s)-accuracy=0.150512
+2021-05-01 20:29:05,063 [INFO]  Epoch[6] Time cost=7.558
+2021-05-01 20:29:05,079 [INFO]  Saved checkpoint to "imputer_model\model-0006.params"
+2021-05-01 20:29:05,600 [INFO]  Epoch[6] Validation-cross-entropy=0.015031
+2021-05-01 20:29:05,601 [INFO]  Epoch[6] Validation-wind_speed(m/s)-accuracy=0.000000
+2021-05-01 20:29:09,257 [INFO]  Epoch[7] Batch [0-635]	Speed: 2784.33 samples/sec	cross-entropy=0.035848	wind_speed(m/s)-accuracy=0.155660
+2021-05-01 20:29:12,788 [INFO]  Epoch[7] Train-cross-entropy=0.031623
+2021-05-01 20:29:12,790 [INFO]  Epoch[7] Train-wind_speed(m/s)-accuracy=0.150512
+2021-05-01 20:29:12,790 [INFO]  Epoch[7] Time cost=7.188
+2021-05-01 20:29:12,795 [INFO]  Saved checkpoint to "imputer_model\model-0007.params"
+2021-05-01 20:29:13,334 [INFO]  Epoch[7] Validation-cross-entropy=0.012869
+2021-05-01 20:29:13,335 [INFO]  Epoch[7] Validation-wind_speed(m/s)-accuracy=0.000000
+2021-05-01 20:29:16,860 [INFO]  Epoch[8] Batch [0-635]	Speed: 2889.62 samples/sec	cross-entropy=0.023422	wind_speed(m/s)-accuracy=0.155660
+2021-05-01 20:29:20,586 [INFO]  Epoch[8] Train-cross-entropy=0.020771
+2021-05-01 20:29:20,587 [INFO]  Epoch[8] Train-wind_speed(m/s)-accuracy=0.150512
+2021-05-01 20:29:20,588 [INFO]  Epoch[8] Time cost=7.252
+2021-05-01 20:29:20,593 [INFO]  Saved checkpoint to "imputer_model\model-0008.params"
+2021-05-01 20:29:21,311 [INFO]  Epoch[8] Validation-cross-entropy=0.018750
+2021-05-01 20:29:21,312 [INFO]  Epoch[8] Validation-wind_speed(m/s)-accuracy=0.000000
+2021-05-01 20:29:24,996 [INFO]  Epoch[9] Batch [0-635]	Speed: 2763.88 samples/sec	cross-entropy=0.014522	wind_speed(m/s)-accuracy=0.155660
+2021-05-01 20:29:28,551 [INFO]  Epoch[9] Train-cross-entropy=0.019253
+2021-05-01 20:29:28,552 [INFO]  Epoch[9] Train-wind_speed(m/s)-accuracy=0.150512
+2021-05-01 20:29:28,553 [INFO]  Epoch[9] Time cost=7.240
+2021-05-01 20:29:28,558 [INFO]  Saved checkpoint to "imputer_model\model-0009.params"
+2021-05-01 20:29:29,099 [INFO]  Epoch[9] Validation-cross-entropy=0.023706
+2021-05-01 20:29:29,100 [INFO]  Epoch[9] Validation-wind_speed(m/s)-accuracy=0.000000
+2021-05-01 20:29:32,702 [INFO]  Epoch[10] Batch [0-635]	Speed: 2826.93 samples/sec	cross-entropy=0.035261	wind_speed(m/s)-accuracy=0.155660
+2021-05-01 20:29:37,088 [INFO]  Epoch[10] Train-cross-entropy=0.042891
+2021-05-01 20:29:37,089 [INFO]  Epoch[10] Train-wind_speed(m/s)-accuracy=0.150512
+2021-05-01 20:29:37,090 [INFO]  Epoch[10] Time cost=7.989
+2021-05-01 20:29:37,095 [INFO]  Saved checkpoint to "imputer_model\model-0010.params"
+2021-05-01 20:29:37,649 [INFO]  Epoch[10] Validation-cross-entropy=0.019055
+2021-05-01 20:29:37,650 [INFO]  Epoch[10] Validation-wind_speed(m/s)-accuracy=0.000000
+2021-05-01 20:29:41,392 [INFO]  Epoch[11] Batch [0-635]	Speed: 2720.21 samples/sec	cross-entropy=0.056894	wind_speed(m/s)-accuracy=0.155660
+2021-05-01 20:29:45,303 [INFO]  Epoch[11] Train-cross-entropy=0.047590
+2021-05-01 20:29:45,305 [INFO]  Epoch[11] Train-wind_speed(m/s)-accuracy=0.150512
+2021-05-01 20:29:45,306 [INFO]  Epoch[11] Time cost=7.655
+2021-05-01 20:29:45,310 [INFO]  Saved checkpoint to "imputer_model\model-0011.params"
+2021-05-01 20:29:45,871 [INFO]  No improvement detected for 5 epochs compared to 0.015031498883451734 last error obtained: 0.017497376488920833, stopping here
+2021-05-01 20:29:45,873 [INFO]  
+========== done (93.68256878852844 s) fit model
