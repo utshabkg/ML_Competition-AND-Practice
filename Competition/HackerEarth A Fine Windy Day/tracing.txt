@@ -47,3 +47,8 @@ xgb.XGBRegressor(objective ='reg:squarederror', colsample_bytree = 0.5, learning
 ## DT: 91.47296346747066
 ## RF: 95.37779772793304 [96.31288 (Online score)]
 ## XGB: 95.47111693354788 [96.39675 (Online score)]
+## HistGradientBoostingRegressor: [96.19082 (Online score)]
+## xgb.XGBRegressor: [96.28639 (Online score)]
+## ExtraTreesRegressor: [95.54585 (Online score)]
+## BaggingRegressor: [95.88354 (Online score)]
+## GradientBoostingRegressor: [94.95869 (Online score)]
