@@ -1,4 +1,5 @@
-built in:
+# built in:
+-----------
 ## RF: 94.90943533802215 [95.89301 (Online score)]
 encoding, scaling: 94.88882357925561 [94.98591]
 imp features & RF: ~94.23
@@ -18,5 +19,31 @@ tsne3: 38.9713522043578
 
 ## DT: 90.13448053709342
 
-raw analysis:
+## NN(learning rate=0.005, epochs=100,batch_size=256,verbose=False): 
+91.06669356311554
+48.50440489340194
+61.58197536986677
+62.06922305861029
+56.548676694312874
+68.28838572443941
+70.63885276878544
+85.99209656862836
+76.75634767299535
+85.89691119732649
+88.86175832001425
+
+## XGB:
+95.50230263783283 [95.03224 (Online score)
+xgb.XGBRegressor(objective ='reg:squarederror', colsample_bytree = 0.5, learning_rate = 0.03 , max_depth = 8, n_estimators = 500)
+                       
+0.95024171926711
+{'colsample_bytree': 0.5, 'learning_rate': 0.03, 'max_depth': 8, 'min_child_weight': 4, 'n_estimators': 500, 'nthread': 4, 'objective': 'reg:linear', 'silent': 1, 'subsample': 0.7}
+0.9499032163333492
+{'colsample_bytree': 0.7, 'learning_rate': 0.03, 'max_depth': 8, 'min_child_weight': 4, 'n_estimators': 500, 'objective': 'reg:linear', 'silent': 0, 'subsample': 0.7}
+
+
+# raw analysis:
+---------------
+## DT: 91.47296346747066
 ## RF: 95.37779772793304 [96.31288 (Online score)]
+## XGB: 95.47111693354788 [96.39675 (Online score)]
