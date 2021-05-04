@@ -61,6 +61,13 @@ xgb.XGBRegressor(objective ='reg:squarederror', colsample_bytree = 0.5, learning
 ## GradientBoostingRegressor: [94.95869 (Online score)]
 
 
-# raw analysis:
----------------
-## 
+# raw analysis extended1:
+-------------------------
+## RF: 
+    (normaldist): 96.71956138703202 [95.90365 (Online score)]
+    (normaldist_outliers_imp0): 97.01956527556752 [96.44459 (Online score)]
+    
+    
+# raw 2:
+--------
+## blended: 97.40106460691122 [not good till now. some technical issues]
