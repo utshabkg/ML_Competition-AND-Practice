@@ -57,7 +57,7 @@ xgb.XGBRegressor(objective ='reg:squarederror', colsample_bytree = 0.5, learning
                              ii. 96.25738018701374 [96.48535 (Online score)]
     (split before fillna):  i. 96.27293214694903 [96.50568 (Online score)]
                             ii. 95.98693067751643 [96.52237 (Online score)]
-        (split = 0.2)       i.  95.95392369000852 [96.53613 (Online score)]****************
+        (split = 0.2)       i.  95.95392369000852 [96.53613 (Online score)]*****
         (split = 0.01)       i.  92.53691684381909 [96.54778 (Online score)]****************
 
 ## HistGradientBoostingRegressor: [96.19082 (Online score)]*****
