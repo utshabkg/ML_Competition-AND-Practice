@@ -52,8 +52,10 @@ xgb.XGBRegressor(objective ='reg:squarederror', colsample_bytree = 0.5, learning
     (removing null targets_imp0): 96.28785317749029 [96.44459 (Online score)]
 ## XGB: 
     95.47111693354788 [96.39675 (Online score)]
-    (removing null targets): 96.25738018701374 [96.48535 (Online score)]
-
+    (removing null targets): i. 96.3092805620293
+                             ii. 96.25738018701374 [96.48535 (Online score)]
+                            iii. 96.27293214694903 [96.50568 (Online score)]
+                            iv. 95.98693067751643 [96.52237 (Online score)]****************
 ## HistGradientBoostingRegressor: [96.19082 (Online score)]
 ## xgb.XGBRegressor: [96.28639 (Online score)]
 ## ExtraTreesRegressor: [95.54585 (Online score)]
