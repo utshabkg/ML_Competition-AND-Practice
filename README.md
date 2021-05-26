@@ -19,10 +19,10 @@ The Machine Learning competitions I took part in solo or with teams.
 <tr>
   <td>1</td>
   <td><a href='https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-windmill-power/'>HackerEarth ML Challenge: A Fine Windy Day</a></td>
-<!--   <a href='https://github.com/utshabkg/ML_Competition-AND-Practice/tree/master/Competition/HackerEarth%20A%20Fine%20Windy%20Day'>My Solution</a>-->
-  <td>Available on May 26, 2021</td>
+<td><a href='https://github.com/utshabkg/ML_Competition-AND-Practice/tree/master/Competition/HackerEarth%20A%20Fine%20Windy%20Day'>My Solution</a></td>
+<!--   <td>Available on May 26, 2021</td> -->
   <td>Regression</td>
-  <td>Running</td>
+  <td>64th out of 2034</td>
   <td><a href='https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-windmill-power/leaderboard/predict-the-power-kwh-produced-from-the-windmills-8-f055f832/'>Solo</a></td>
 </tr>
 </table>
