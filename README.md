@@ -22,7 +22,7 @@ The Machine Learning competitions I took part in solo or with teams.
   <td><a href='https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-vehicle-insurance-claim/'>HackerEarth ML Challenge: Fast, Furious and Insured</a></td>
 <!-- <td><a href=''>My Solution</a></td> -->
   <td>Available on Jun 20</td>
-  <td>Regression</td>
+  <td>Classification(Image Dataset) & Regression(Tabular Dataset)</td>
   <td>Running</td>
   <td><a href='https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-vehicle-insurance-claim/leaderboard/predict-the-condition-and-insurance-amount-21-fb647347/'>Solo</a></td>
 </tr>
