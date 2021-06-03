@@ -1,0 +1,35 @@
+Best Models:
+1. densenet/densenet_all-0.987.hdf5
+Image:
+            regressor	train_acc	test_acc
+            ExtraTreeRegressor	99.92	95.53
+            ExtraTreesRegressor	99.49	97.00
+            XGBRegressor	98.53	94.78
+            RandomForestRegressor	98.30	94.10
+            GradientBoostingRegressor	98.30	94.55
+            LGBMRegressor	96.39	90.32
+            CatBoostRegressor	93.38	86.54
+            DecisionTreeRegressor	64.35	63.74
+            AdaBoostRegressor	22.96	8.19
+Regression:
+            Mixed1 (XGB_LGB_Cat): 91.71158467292896 [47.29167 (Online score)]
+            Mixed2 (extratree_extratrees_XGB): 97.40614544520821 [47.29167 (Online score)]
+            ** Same onlinse score for sole regressors.
+            
+2. resnet:
+    Model	Accuracy	Precision	Recall
+    - Resnet FC	0.96336	0.97496	0.95115 (resnet/resnet_fc-0.963.hdf5)
+    
+    
+    - Resnet all	0.97750	0.98945	0.96529 (resnet/resnet_all-0.978.hdf5)
+    
+    
+3. vgg16:
+    Model	Accuracy	Precision	Recall
+    - vgg16 FC	0.94408	0.94928	0.93830 (vgg16/vgg16_fc-0.944.hdf5)
+    
+    
+    - vgg16 all	0.98071	0.97826	0.98329 (vgg16/vgg16_all-0.981.hdf5)
+    
+    
+4. vgg19:
