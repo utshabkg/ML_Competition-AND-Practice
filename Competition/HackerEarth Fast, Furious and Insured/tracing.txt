@@ -19,7 +19,7 @@ Regression:
 2. resnet:
     Model	Accuracy	Precision	Recall
     - Resnet FC	0.96336	0.97496	0.95115 (resnet/resnet_fc-0.963.hdf5)
-    
+
     
     - Resnet all	0.97750	0.98945	0.96529 (resnet/resnet_all-0.978.hdf5)
     
@@ -33,3 +33,8 @@ Regression:
     
     
 4. vgg19:
+    Model	Accuracy	Precision	Recall
+    - vgg19 FC	0.95051	0.95460	94601
+    
+    
+    - vgg19 all	0.98071	0.98697	0.97429
