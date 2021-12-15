@@ -58,6 +58,3 @@ The Machine Learning competitions I took part in solo or with teams.
 
 ### Practice:
 I learnt and implemented different problems' solutions with ML.
-
-### Job Preparation:
-Different resources shared by some good people, like iNeuron.ai.
