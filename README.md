@@ -16,6 +16,15 @@ The Machine Learning competitions I took part in solo or with teams.
   <th>Position</th>
   <th>Leaderboard</th>
 </tr>
+
+<tr>
+  <td>5</td>
+  <td><a href='https://www.kaggle.com/c/petfinder-pawpularity-score/overview'>Kaggle PetFinder.my - Pawpularity Contest</a></td>
+<td><a href=''>Available after 07-01-2022</a></td>
+  <td>Regression (Image Dataset)</td>
+  <td>Running</td>
+  <td><a href='https://www.kaggle.com/c/petfinder-pawpularity-score/leaderboard'>Solo</a></td>
+</tr>
   
 <tr>
   <td>4</td>
@@ -40,7 +49,7 @@ The Machine Learning competitions I took part in solo or with teams.
   <td><a href='https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-vehicle-insurance-claim/'>HackerEarth ML Challenge: Fast, Furious and Insured</a></td>
 <td><a href='https://github.com/utshabkg/ML_Competition-AND-Practice/tree/master/Competition/HackerEarth%20Fast%2C%20Furious%20and%20Insured'>My Solution</a></td>
   <!-- <td>Available on Jun 20</td> -->
-  <td>Classification(Image Dataset) & Regression(Tabular Dataset)</td>
+  <td>Classification (Image Dataset) & Regression (Tabular Dataset)</td>
   <td>86th out of 2796</td>
   <td><a href='https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-vehicle-insurance-claim/leaderboard/predict-the-condition-and-insurance-amount-21-fb647347/'>Solo</a></td>
 </tr>
