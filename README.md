@@ -13,33 +13,29 @@ The Machine Learning competitions I took part in solo or with teams.
   <th>Challenge Name</th>
   <th>Repository</th>
   <th>Domain</th>
-  <th>Position</th>
-  <th>Leaderboard</th>
+  <th>Position & Leaderboard</th>
 </tr>
 
 <tr>
   <td>5</td>
   <td><a href='https://www.kaggle.com/c/petfinder-pawpularity-score/overview'>Kaggle PetFinder.my - Pawpularity Contest</a></td>
-<td><a href=''>Available after 07-01-2022</a></td>
+  <td><a href='https://github.com/utshabkg/ML_Competition-AND-Practice/tree/master/Competition/Kaggle%20PetFinder.my%20-%20Pawpularity%20Contest'>My Solution</a></td>
   <td>Regression (Image Dataset)</td>
-  <td>Running</td>
-  <td><a href='https://www.kaggle.com/c/petfinder-pawpularity-score/leaderboard'>Solo</a></td>
+  <td><a href='https://www.kaggle.com/c/petfinder-pawpularity-score/leaderboard'>Top 13% (443th out of 3545)</a></td>
 </tr>
   
 <tr>
   <td>4</td>
   <td><a href='https://datahack.analyticsvidhya.com/contest/practice-problem-time-series-2/'>Datahack Traffic Forecasting</a></td>
-<td><a href=''>Available after 30-06-2022</a></td>
+  <td><a href=''>Available after 30-06-2022</a></td>
   <td>Time Series Forecasting</td>
-  <td>Running</td>
-  <td><a href='https://datahack.analyticsvidhya.com/contest/practice-problem-time-series-2/#LeaderBoard'>Solo</a></td>
+  <td><a href='https://datahack.analyticsvidhya.com/contest/practice-problem-time-series-2/#LeaderBoard'>Running</a></td>
 </tr>
   
 <tr>
   <td>3</td>
   <td><a href='https://stepik.org/course/91751/'>Bioinformatics Contest 2021</a></td>
-<td><a href='https://github.com/utshabkg/ML_Competition-AND-Practice/tree/master/Competition/Stepkik%20Bioinformatics%20Contest%202021'>My Solution</a></td>
-  <!-- <td>Available on Jun 20</td> -->
+  <td><a href='https://github.com/utshabkg/ML_Competition-AND-Practice/tree/master/Competition/Stepkik%20Bioinformatics%20Contest%202021'>My Solution</a></td>
   <td>Problem Solving</td>
   <td>Qualification Round Overcame</td>
 </tr>
@@ -47,11 +43,9 @@ The Machine Learning competitions I took part in solo or with teams.
 <tr>
   <td>2</td>
   <td><a href='https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-vehicle-insurance-claim/'>HackerEarth ML Challenge: Fast, Furious and Insured</a></td>
-<td><a href='https://github.com/utshabkg/ML_Competition-AND-Practice/tree/master/Competition/HackerEarth%20Fast%2C%20Furious%20and%20Insured'>My Solution</a></td>
-  <!-- <td>Available on Jun 20</td> -->
+  <td><a href='https://github.com/utshabkg/ML_Competition-AND-Practice/tree/master/Competition/HackerEarth%20Fast%2C%20Furious%20and%20Insured'>My Solution</a></td>
   <td>Classification (Image Dataset) & Regression (Tabular Dataset)</td>
-  <td>86th out of 2796</td>
-  <td><a href='https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-vehicle-insurance-claim/leaderboard/predict-the-condition-and-insurance-amount-21-fb647347/'>Solo</a></td>
+  <td><a href='https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-vehicle-insurance-claim/leaderboard/predict-the-condition-and-insurance-amount-21-fb647347/'>86th out of 2796</a></td>
 </tr>
  
 <tr>
@@ -60,8 +54,7 @@ The Machine Learning competitions I took part in solo or with teams.
 <td><a href='https://github.com/utshabkg/ML_Competition-AND-Practice/tree/master/Competition/HackerEarth%20A%20Fine%20Windy%20Day'>My Solution</a></td>
 <!--   <td>Available on May 26, 2021</td> -->
   <td>Regression</td>
-  <td>54th out of 2034</td>
-  <td><a href='https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-windmill-power/leaderboard/predict-the-power-kwh-produced-from-the-windmills-8-f055f832/'>Solo</a></td>
+  <td><a href='https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-windmill-power/leaderboard/predict-the-power-kwh-produced-from-the-windmills-8-f055f832/'>54th out of 2034</a></td>
 </tr>
 </table>
 
