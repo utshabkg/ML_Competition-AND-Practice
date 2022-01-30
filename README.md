@@ -15,6 +15,14 @@ The Machine Learning competitions I took part in solo or with teams.
   <th>Domain</th>
   <th>Position & Leaderboard</th>
 </tr>
+  
+<tr>
+  <td>6</td>
+  <td><a href='https://www.kaggle.com/c/tensorflow-great-barrier-reef'>Kaggle TensorFlow - Help Protect the Great Barrier Reef</a></td>
+  <td><a href=''>Available after February 8, 2022</a></td>
+  <td>Object Detection (Video Dataset)</td>
+  <td><a href='https://www.kaggle.com/c/tensorflow-great-barrier-reef/leaderboard'>Running (See Live)</a></td>
+</tr>
 
 <tr>
   <td>5</td>
@@ -27,9 +35,9 @@ The Machine Learning competitions I took part in solo or with teams.
 <tr>
   <td>4</td>
   <td><a href='https://datahack.analyticsvidhya.com/contest/practice-problem-time-series-2/'>Datahack Traffic Forecasting</a></td>
-  <td><a href=''>Available after 30-06-2022</a></td>
+  <td><a href=''>Available after June 5, 2022</a></td>
   <td>Time Series Forecasting</td>
-  <td><a href='https://datahack.analyticsvidhya.com/contest/practice-problem-time-series-2/#LeaderBoard'>Running</a></td>
+  <td><a href='https://datahack.analyticsvidhya.com/contest/practice-problem-time-series-2/#LeaderBoard'>Running (See Live)</a></td>
 </tr>
   
 <tr>
@@ -59,4 +67,4 @@ The Machine Learning competitions I took part in solo or with teams.
 </table>
 
 ### Practice:
-I learnt and implemented different problems' solutions with ML.
+I learnt and implemented different problems' <a href='https://github.com/utshabkg/ML_Competition-AND-Practice/tree/master/Practice'>solutions</a> with ML.
