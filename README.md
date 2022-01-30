@@ -18,53 +18,53 @@ The Machine Learning competitions I took part in solo or with teams.
   
 <tr>
   <td>6</td>
-  <td><a href='https://www.kaggle.com/c/tensorflow-great-barrier-reef'>Kaggle TensorFlow - Help Protect the Great Barrier Reef</a></td>
-  <td><a href=''>Available after February 8, 2022</a></td>
+  <td><a href='https://www.kaggle.com/c/tensorflow-great-barrier-reef' target='_blank'>Kaggle TensorFlow - Help Protect the Great Barrier Reef</a></td>
+  <td><a href='' target='_blank'>Available after February 8, 2022</a></td>
   <td>Object Detection (Video Dataset)</td>
-  <td><a href='https://www.kaggle.com/c/tensorflow-great-barrier-reef/leaderboard'>Running (See Live)</a></td>
+  <td><a href='https://www.kaggle.com/c/tensorflow-great-barrier-reef/leaderboard' target='_blank'>Running (See Live)</a></td>
 </tr>
 
 <tr>
   <td>5</td>
-  <td><a href='https://www.kaggle.com/c/petfinder-pawpularity-score/overview'>Kaggle PetFinder.my - Pawpularity Contest</a></td>
-  <td><a href='https://github.com/utshabkg/ML_Competition-AND-Practice/tree/master/Competition/Kaggle%20PetFinder.my%20-%20Pawpularity%20Contest'>My Solution</a></td>
+  <td><a href='https://www.kaggle.com/c/petfinder-pawpularity-score/overview' target='_blank'>Kaggle PetFinder.my - Pawpularity Contest</a></td>
+  <td><a href='https://github.com/utshabkg/ML_Competition-AND-Practice/tree/master/Competition/Kaggle%20PetFinder.my%20-%20Pawpularity%20Contest' target='_blank'>My Solution</a></td>
   <td>Regression (Image Dataset)</td>
-  <td><a href='https://www.kaggle.com/c/petfinder-pawpularity-score/leaderboard'>Top 13% (443th out of 3545)</a></td>
+  <td><a href='https://www.kaggle.com/c/petfinder-pawpularity-score/leaderboard' target='_blank'>Top 13% (443th out of 3545)</a></td>
 </tr>
   
 <tr>
   <td>4</td>
-  <td><a href='https://datahack.analyticsvidhya.com/contest/practice-problem-time-series-2/'>Datahack Traffic Forecasting</a></td>
-  <td><a href=''>Available after June 5, 2022</a></td>
+  <td><a href='https://datahack.analyticsvidhya.com/contest/practice-problem-time-series-2/' target='_blank'>Datahack Traffic Forecasting</a></td>
+  <td><a href='' target='_blank'>Available after June 5, 2022</a></td>
   <td>Time Series Forecasting</td>
-  <td><a href='https://datahack.analyticsvidhya.com/contest/practice-problem-time-series-2/#LeaderBoard'>Running (See Live)</a></td>
+  <td><a href='https://datahack.analyticsvidhya.com/contest/practice-problem-time-series-2/#LeaderBoard' target='_blank'>Running (See Live)</a></td>
 </tr>
   
 <tr>
   <td>3</td>
-  <td><a href='https://stepik.org/course/91751/'>Bioinformatics Contest 2021</a></td>
-  <td><a href='https://github.com/utshabkg/ML_Competition-AND-Practice/tree/master/Competition/Stepkik%20Bioinformatics%20Contest%202021'>My Solution</a></td>
+  <td><a href='https://stepik.org/course/91751/' target='_blank'>Bioinformatics Contest 2021</a></td>
+  <td><a href='https://github.com/utshabkg/ML_Competition-AND-Practice/tree/master/Competition/Stepkik%20Bioinformatics%20Contest%202021' target='_blank'>My Solution</a></td>
   <td>Problem Solving</td>
   <td>Qualification Round Overcame</td>
 </tr>
 
 <tr>
   <td>2</td>
-  <td><a href='https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-vehicle-insurance-claim/'>HackerEarth ML Challenge: Fast, Furious and Insured</a></td>
-  <td><a href='https://github.com/utshabkg/ML_Competition-AND-Practice/tree/master/Competition/HackerEarth%20Fast%2C%20Furious%20and%20Insured'>My Solution</a></td>
+  <td><a href='https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-vehicle-insurance-claim/' target='_blank'>HackerEarth ML Challenge: Fast, Furious and Insured</a></td>
+  <td><a href='https://github.com/utshabkg/ML_Competition-AND-Practice/tree/master/Competition/HackerEarth%20Fast%2C%20Furious%20and%20Insured' target='_blank'>My Solution</a></td>
   <td>Classification (Image Dataset) & Regression (Tabular Dataset)</td>
-  <td><a href='https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-vehicle-insurance-claim/leaderboard/predict-the-condition-and-insurance-amount-21-fb647347/'>86th out of 2796</a></td>
+  <td><a href='https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-vehicle-insurance-claim/leaderboard/predict-the-condition-and-insurance-amount-21-fb647347/' target='_blank'>86th out of 2796</a></td>
 </tr>
  
 <tr>
   <td>1</td>
-  <td><a href='https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-windmill-power/'>HackerEarth ML Challenge: A Fine Windy Day</a></td>
-<td><a href='https://github.com/utshabkg/ML_Competition-AND-Practice/tree/master/Competition/HackerEarth%20A%20Fine%20Windy%20Day'>My Solution</a></td>
+  <td><a href='https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-windmill-power/' target='_blank'>HackerEarth ML Challenge: A Fine Windy Day</a></td>
+<td><a href='https://github.com/utshabkg/ML_Competition-AND-Practice/tree/master/Competition/HackerEarth%20A%20Fine%20Windy%20Day' target='_blank'>My Solution</a></td>
 <!--   <td>Available on May 26, 2021</td> -->
   <td>Regression</td>
-  <td><a href='https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-windmill-power/leaderboard/predict-the-power-kwh-produced-from-the-windmills-8-f055f832/'>54th out of 2034</a></td>
+  <td><a href='https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-windmill-power/leaderboard/predict-the-power-kwh-produced-from-the-windmills-8-f055f832/' target='_blank'>54th out of 2034</a></td>
 </tr>
 </table>
 
 ### Practice:
-I learnt and implemented different problems' <a href='https://github.com/utshabkg/ML_Competition-AND-Practice/tree/master/Practice'>solutions</a> with ML.
+I learnt and implemented different problems' <a href='https://github.com/utshabkg/ML_Competition-AND-Practice/tree/master/Practice' target='_blank'>solutions</a> with ML.
