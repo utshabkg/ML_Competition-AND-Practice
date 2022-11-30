@@ -1,0 +1,1 @@
+kaggle competitions download -c g-research-crypto-forecasting
